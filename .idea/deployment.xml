@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@129.204.178.29:60022" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="root@129.204.178.29:60022">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/scripts/bigdata_devops" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
